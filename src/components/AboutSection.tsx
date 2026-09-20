@@ -12,7 +12,7 @@ export default function AboutSection() {
               Good Food. Great Company. Every Time.
             </h2>
             <p className="text-mutedBeige text-lg leading-relaxed">
-              At Tist N Taste Kuttys, we bring together the comforting flavors of South Indian cuisine and a selection of delicious favorites for every kind of craving. Whether you're stopping by for a hearty biryani, enjoying grilled specialties with friends, or sharing a meal with family, there's something to look forward to.
+              At Tist N Taste Kuttys, we bring together the comforting flavors of South Indian cuisine and a selection of delicious favorites for every kind of craving. Whether you&apos;re stopping by for a hearty biryani, enjoying grilled specialties with friends, or sharing a meal with family, there&apos;s something to look forward to.
             </p>
             
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 pt-6 border-t border-charcoal/50">

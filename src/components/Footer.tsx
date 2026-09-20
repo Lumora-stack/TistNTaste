@@ -43,7 +43,7 @@ export default function Footer() {
             {/* Brand */}
             <div>
               <h3 className="font-serif text-3xl font-bold text-warmIvory mb-4">Tist N Taste Kuttys</h3>
-              <p className="text-mutedBeige italic">"Flavorful moments, one meal at a time."</p>
+              <p className="text-mutedBeige italic">&quot;Flavorful moments, one meal at a time.&quot;</p>
             </div>
 
             {/* Quick Links */}
